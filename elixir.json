@@ -1,0 +1,11 @@
+{
+	"assetsPath": "./",
+	"js": {
+		"folder": "./"
+	},
+	"css": {
+		"sass": {
+			"folder": "./"
+		}
+	}
+}
